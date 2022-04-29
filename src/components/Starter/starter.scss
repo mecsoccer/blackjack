@@ -1,0 +1,17 @@
+.starter-ds727dsad{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    div{
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 50px;
+        i {
+            line-height: 40px;
+        }
+        .btn{
+            max-width: 200px;
+            margin: auto;
+        }
+    }
+}
